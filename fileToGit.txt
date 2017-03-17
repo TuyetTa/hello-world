@@ -1,0 +1,2 @@
+Hello!
+This practice to put file into GitHub. 
